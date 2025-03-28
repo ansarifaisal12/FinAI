@@ -1,6 +1,8 @@
 # Financial Report Generator AI Agent
 
 An agentic AI system that generates comprehensive financial reports and insights based on user queries. The application uses Groq's DeepSeek models for AI reasoning, LangChain for orchestration, Chart.js for visualizations, and FastAPI for the backend.
+<img width="914" alt="Screenshot 2025-03-28 123423" src="https://github.com/user-attachments/assets/4ddbd9fb-4a01-494a-a2f4-d5c2bbdbd22d" />
+<img width="901" alt="Screenshot 2025-03-28 123458" src="https://github.com/user-attachments/assets/90016b65-bc8e-4fb8-b988-69e818f185af" />
 
 ## Features
 
