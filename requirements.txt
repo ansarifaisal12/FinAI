@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+groq
+pandas
+numpy
+pydantic
+requests
+python-multipart
+matplotlib
+jinja2
+aiohttp
+yfinance
