@@ -1,6 +1,6 @@
 # Financial Report Generator AI Agent
 
-An agentic AI system that generates comprehensive financial reports and insights based on user queries. The application uses Groq's Llama-3 models for AI reasoning, LangChain for orchestration, Chart.js for visualizations, and FastAPI for the backend.
+An agentic AI system that generates comprehensive financial reports and insights based on user queries. The application uses Groq's DeepSeek models for AI reasoning, LangChain for orchestration, Chart.js for visualizations, and FastAPI for the backend.
 
 ## Features
 
