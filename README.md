@@ -35,7 +35,7 @@ An agentic AI system that generates comprehensive financial reports and insights
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/financial-report-ai.git
+git clone https://github.com/ansarifaisal12/FinAI.git
 cd financial-report-ai
 ```
 
